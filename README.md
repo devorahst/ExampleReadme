@@ -1,28 +1,43 @@
 # ExampleReadme
-Example README to send to people learning about documentation.
+Example README to send to people learning about documentation. Not every script is going to need a README this complex (and some are going to be more complicated). But this can be an outline if you don't know where to start. If you have nothing to say for a section delete it. READMEs are supposed to be short and sweet.
 
 ## Getting Started
 
 ### Dependencies
 
-Probe VCF uses BCFtools. You can find instructions on how to install BCFtools here. Alternatively, if you are running this program on one of the CHPC servers you can use the following command to load BCF tools as a module.
-```
-module load bcftools
-```
+Are there any programs or libraries to install? Do you have to load any modules for this program to work? 
 
-Probe VCf also uses vcf2tsv script created by [Sigve Nakken](https://github.com/sigven). A copy of this will be installed if you clone the whole repository. Look [here](https://github.com/PezzolesiLab/manipulate-VCFs/tree/main/vcf2tsv-0.3.7.1#readme) for more inforamtion on vcf2tsv.
+### Instalation
+Is there anything you need to do once right after you clone the repository. Do any slurm scripts need to be updaated to the new user's email? Do you need to delete or create any files?
 
-## Executing Program
+If you need to create an input file leave an example of what it should look like.
+````
+phenotype
+cg00000
+cg00001
+cg00002
+````
 
-Instructions for how to run each program can be found in their respective subdirectories.
+## Executable Files
 
-* [prepVCF](https://github.com/PezzolesiLab/manipulate-VCFs/tree/main/prepVCF)
-* [probeVCF](https://github.com/PezzolesiLab/manipulate-VCFs/tree/main/probeVCF)
+Most of the repositories in this lab contain a bunch of scripts that perform different functions for the same database.
+
+### example_script_1.R
+
+What does this script do?
+
+What needs to be done every time the script is run? What is the input for the script? What arguments does this script take?
+1. Argument 1
+2. Argument 2
+
+What is the output for this script?
+
+### example-script_2.py
+
+Rinse and repeat
 
 ## Authors
 
 Devorah Stucki
-
-Based on scripts by Scott Frodsham
 
 
