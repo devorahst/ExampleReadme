@@ -1,4 +1,4 @@
-# ExampleReadme
+# Example README
 Example README to send to people learning about documentation. Not every script is going to need a README this complex (and some are going to be more complicated). But this can be an outline if you don't know where to start. If you have nothing to say for a section delete it. READMEs are supposed to be short and sweet.
 
 ## Getting Started
