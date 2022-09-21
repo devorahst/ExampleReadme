@@ -8,7 +8,7 @@ Example README to send to people learning about documentation. Not every script 
 Are there any programs or libraries to install? Do you have to load any modules for this program to work? 
 
 ### Instalation
-Is there anything you need to do once right after you clone the repository. Do any slurm scripts need to be updaated to the new user's email? Do you need to delete or create any files?
+Is there anything you need to do once right after you clone the repository. Do any slurm scripts need to be updated to the new user's email? Do you need to delete or create any files?
 
 If you need to create an input file leave an example of what it should look like.
 ````
