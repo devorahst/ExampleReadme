@@ -20,7 +20,7 @@ cg00002
 
 ## Executable Files
 
-Most of the repositories in this lab contain a bunch of scripts that perform different functions for the same database.
+Most of the repositories in this lab contain a bunch of scripts that perform different functions for the same database. This is where to sxplain to functionality of each script. For large repositories with multiple subdirectories it may make sense to do this in a different readme for each subdirectory and link them here.
 
 ### example_script_1.R
 
