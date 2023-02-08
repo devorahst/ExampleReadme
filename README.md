@@ -36,6 +36,10 @@ What is the output for this script?
 
 Rinse and repeat
 
+## Other Notes
+
+If you want more information on how to format a markdown document [this website](https://www.markdownguide.org/basic-syntax/) gives a great overview.
+
 ## Authors
 
 Devorah Stucki
